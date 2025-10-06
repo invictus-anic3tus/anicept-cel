@@ -21,3 +21,10 @@ Anyways, I've researched a bunch so far, and for the most part I'm proud of what
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NjQ5LCJwdXIiOiJibG9iX2lkIn19--73ec6ee1f2805b64f134622225063bb30713b3d2/image.png)
   
 
+## 10/6/2025 - Began CAD  
+
+Today I started to CAD the toolhead a bit. I did a bit more research, but I think I'm gonna get started on the printhead just to make sure I'm not forgetting anything or something like that. I'm using the ProtoExtruder 2.0, the Peopoly Magneto X Lancer Melt Zone standard hotend, dual 5020 part cooling fans, a 4010 heat creep fan, a CRTouch probe, and possibly linear rails, but I may have to switch to rods for budget problems.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ODE1LCJwdXIiOiJibG9iX2lkIn19--8375904dc9494e9f7029cb97178e6c4176a399dd/image.png)
+  
+
