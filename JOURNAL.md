@@ -28,3 +28,17 @@ Today I started to CAD the toolhead a bit. I did a bit more research, but I thin
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ODE1LCJwdXIiOiJibG9iX2lkIn19--8375904dc9494e9f7029cb97178e6c4176a399dd/image.png)
   
 
+## 10/8/2025 - More Printhead CAD  
+
+Today I did a bunch of CAD! I locked in and was able to get a ton of stuff done. I arranged all my printhead parts in a way I think will work really well, and began to make the 3D printed parts. I've decided to put the ABL probe (CR Touch) in the front, which is fairly unusual, but the idea is that it lets me keep the hotend and extruder as close to the X-axis linear rods as possible to minimize the effects of linear bearing play and to distribute the weight better. In moving the CR Touch, I had to mount the heat creep fan at a 45 degree angle, but I think it looks cool so I like it. Finally, moving the probe gives me more room to put a possible toolhead PCB.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTEyOCwicHVyIjoiYmxvYl9pZCJ9fQ==--36b86b95f66aa8da516a42d17e7a45ec4bb72c67/image.png)
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTEyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--3e1936ae8b0b2504997001de2485859167fa2f8c/image.png)
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTEzMCwicHVyIjoiYmxvYl9pZCJ9fQ==--7bc04fae3d1ee967bf941babd6be583306925743/image.png)
+
+Last but not least, I huddled with Gabriel (@gbtsui) and gave him some tips and tricks on how to make a printer, cuz he's making his first CoreXY! Fun stuff.
+
+  
+
