@@ -42,3 +42,10 @@ Last but not least, I huddled with Gabriel (@gbtsui) and gave him some tips and 
 
   
 
+## 10/9/2025 - More printhead CAD and first CFD run  
+
+Today I cadded a bunch more on the printhead! I'm quite happy with my work, and I managed to get a ton of stuff done with connecting the fans and stuff. I made some quick fan ducts and ran a CFD test to see what they look like (spoiler: not good, but I was expecting that). Tomorrow I'll fix the ducts and run some more CFDs!
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTMwMiwicHVyIjoiYmxvYl9pZCJ9fQ==--5f49ef261b658e591f6d8a28916b21772530dedd/image.png)
+  
+
