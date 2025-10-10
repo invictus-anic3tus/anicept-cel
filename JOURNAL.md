@@ -49,3 +49,39 @@ Today I cadded a bunch more on the printhead! I'm quite happy with my work, and 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTMwMiwicHVyIjoiYmxvYl9pZCJ9fQ==--5f49ef261b658e591f6d8a28916b21772530dedd/image.png)
   
 
+## 10/10/2025 - More CFD Tests  
+
+Today I ran a few more CFD tests, with some CAD in between!
+
+### CFD Run #1
+
+Here I tried to get the airflow to flow more directly towards the spot right beneath the nozzle, without limiting it too much.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTQ4OCwicHVyIjoiYmxvYl9pZCJ9fQ==--d58b9a3833b80d406aca241e7ad58e9f72cfc58d/image.png)
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTUxMCwicHVyIjoiYmxvYl9pZCJ9fQ==--567e8b17ff261a216d2ee6a3826062c09eee7a17/image.png)
+
+Here you can see the ducts are directing the air too far upwards, so it's effectively cooling the nozzle and making the hotend work harder instead of cooling the actual print.
+
+### CFD Run #2
+
+I've angled the duct outputs downwards slightly in the hopes that it'll deflect the airflow towards beneath the nozzle
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTUwOSwicHVyIjoiYmxvYl9pZCJ9fQ==--8143e15a7b85faae44f74b113d088c38979a4bf1/image.png)
+
+Much better
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTUyMywicHVyIjoiYmxvYl9pZCJ9fQ==--934862fb8a4941166859a00fc748f0bc9e7abf0b/image.png)
+
+I'm going to leave it at this for now, as I'm fairly satisfied with how it looks. Apart from that, I did more printhead CAD!
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTUyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--0acd52937b706865928859d1c3d2a546819e740f/image.png)
+
+I love the logo and I love how compact and nice the whole thing works. I've switched back to a linear rail, at least for the X-axis, as it's cheaper than getting two rods and two LM8LUU bearings. For Y axis I'm still a bit undecided as to whether I should get dual MGN12H's, an MGW9 (a wider linear rod) or two linear rods. I may end up doing dual linear rods just cuz of budget, but we'll see.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTUyNSwicHVyIjoiYmxvYl9pZCJ9fQ==--d9be50550aed7b6b8748b9587639431fcd960fa2/image.png)
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTUyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--b0b877a63ccdbc05f753ad8619733aebfe4d66ba/image.png)
+
+I plan to put a toolhead PCB on the back, with a USB-C output like the Bambu A1 Mini has! Yippee  
+
