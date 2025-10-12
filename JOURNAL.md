@@ -85,3 +85,19 @@ I love the logo and I love how compact and nice the whole thing works. I've swit
 
 I plan to put a toolhead PCB on the back, with a USB-C output like the Bambu A1 Mini has! Yippee  
 
+## 10/12/2025 - Printhead CAD: Attached Belts, Finished(?) Ducts  
+
+Today I was fairly productive, and at this rate I think I can finish the printhead in two or so days! After receiving advice from @Evan Le, I've significantly widened the part cooling ducts, as 5020 fans have very little static pressure.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTg5OCwicHVyIjoiYmxvYl9pZCJ9fQ==--fe90322c8a1f3ea71ae89d550b4302f7762dff5c/image.png)
+
+Additionally, I've added the belt attachy thingies, and I'm fairly confident in them. The belt wraps around a 3D printed part (reinforced by a screw) inside the printhead itself, curves in on itself, and meshes with itself as it comes back out to prevent it from slipping out.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTg5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--ba3e1307e0679b452058285bebf1d41a3d1b76c9/image.png)
+
+I've also added an area that I could put the toolhead pcb, which I plan to put a gyro on.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTkwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--ca8743ccc87354a20db40c8cc48f9ecfc5755645/image.png)
+
+Unfortunately I didn't have time to CFD test the new ducts... tomorrow!  
+
