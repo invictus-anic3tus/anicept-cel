@@ -101,3 +101,16 @@ I've also added an area that I could put the toolhead pcb, which I plan to put a
 
 Unfortunately I didn't have time to CFD test the new ducts... tomorrow!  
 
+## 10/13/2025 - CFD #4 and began toolhead PCB  
+
+First I did the fourth CFD run:
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjA5NiwicHVyIjoiYmxvYl9pZCJ9fQ==--9d7037c2e4b18f84f2138980beb8511c278c1935/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjA5NywicHVyIjoiYmxvYl9pZCJ9fQ==--52a556b3d5a5d4746c70a9c0de7727738e665c83/image.png)
+
+Then I began to work on the toolhead PCB. I found out that USB-PD can carry up to 240W, which is great! Plenty for the hotend and everything.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--14d27de8e688b38f02e35e17934e15f9e76fe316/image.png)
+
+Besides that, I did a little bit of CAD on the printhead, smoothing some stuff out and making it look nicer. I'm pretty pleased with how quickly I'm getting this thing done! I only hope that I get the PCBWay sponsorship...  
+
