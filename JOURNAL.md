@@ -114,3 +114,16 @@ Then I began to work on the toolhead PCB. I found out that USB-PD can carry up t
 
 Besides that, I did a little bit of CAD on the printhead, smoothing some stuff out and making it look nicer. I'm pretty pleased with how quickly I'm getting this thing done! I only hope that I get the PCBWay sponsorship...  
 
+## 10/17/2025 - More research and CAD  
+
+The past few days I've been kinda slacking.... I worked a bit more on CAD and did a bunch of research of different unimportant things. I went down a whole 1.5 hr rabbit hole about 3D printer beds. Originally I'd planned to use the bed from the Bambu Lab A1 Mini, but propriety parts are SO EXPENSIVE AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+anyways, next i researched silicone bed heaters (that didn't turn out), 150mm beds (that didn't work either), and finally landed on a cheap PCB bed heater :D
+
+but images are worth a thousand words so here's 2000 words
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjc3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--ae73d633bbf94577e06ea2d04b9bf0fed02dd785/image.png)
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjc3MiwicHVyIjoiYmxvYl9pZCJ9fQ==--bc77406eb8149181c2b9f4bca6956fec109843bb/image.png)
+  
+
