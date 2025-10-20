@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **The Anicept Cel**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/216).
-
-
 ## 10/5/2025 - Researched parts  
 
 For the past little while, I've been researching parts and exactly what I need to make a truly beginner-friendly yet super fast printer. My ideal with this printer is a bedslinger with Bambu Lab ease-of-use and CoreXY speeds. Of course, a DIY printer can't really get as easy to make as a Bambu Lab, due to the lack of custom parts, etc. But I'm sure going to try.
@@ -126,4 +122,18 @@ but images are worth a thousand words so here's 2000 words
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjc3MiwicHVyIjoiYmxvYl9pZCJ9fQ==--bc77406eb8149181c2b9f4bca6956fec109843bb/image.png)
   
+
+## 10/20/2025 - Guess what! More cad  
+
+Today I added the RPi zero 2 w to the design, repositioned some stuff, added 2040 aluminum extrusions instead of 2020, added the motor, the pulley, the bearing, and semi-redid the belt-attachy-to-printhead bit. I accidentally did all this originally using 20T pulleys, when I'd intended to use 16T, so I had to redo all that :sob:
+
+Anyways here's some pics
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzg2MiwicHVyIjoiYmxvYl9pZCJ9fQ==--7f586c12ca0d1139e5991a87d34adc779412e40a/image.png)
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzg2MywicHVyIjoiYmxvYl9pZCJ9fQ==--76727d6730a0f2443ab8b217563bdf890d768bc8/image.png)
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzg2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--9ea3af1397137aa65ce7a704c32c5ddecc555e00/image.png)
+
+It's been fairly slow lately... I really have to step it up to finish before November tariffs kick in. Wish me luck.  
 
