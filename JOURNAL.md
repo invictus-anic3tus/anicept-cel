@@ -137,3 +137,19 @@ Anyways here's some pics
 
 It's been fairly slow lately... I really have to step it up to finish before November tariffs kick in. Wish me luck.  
 
+## 10/23/2025 - CAD - repositioned parts, figured out frame  
+
+Today (and yesterday) I did a lot of repositioning parts and trying to figure out how the frame's gonna look. It's hard keeping in mind PSU wiring throughout all of it, but I think I have a good general idea. I'm using 4040 extrusions for stability, and nice big connecting pieces.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDkxNCwicHVyIjoiYmxvYl9pZCJ9fQ==--4a7aef7a873025796f3f869b64e10e0ceef6b289/image.png)
+
+I must have repositioned that stupid power inlet ten thousand times, but I like where it is now. I've decided not to do dual z motors, simply because I didn't realize that I have to do a pretty big belt-gear ratio to keep the axis from falling, and those big gears are expensive.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDkxNSwicHVyIjoiYmxvYl9pZCJ9fQ==--86ca53f4c09b971c7e6646f2fbed6d155fdefab7/image.png)
+
+Here you can see how I think the motors will be placed, but that may change. Another thing that I may change is the custom toolhead PCB. I like the idea, and I like USB-PD, but it'd just be much easier to use the wires I already have, save a few bucks with the PD cord, and just to get a regular gyro instead. I can still route the wires together using a wire cable sleeve.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDkxOCwicHVyIjoiYmxvYl9pZCJ9fQ==--376393c647f090a2b0a515ab22b71eee52aee951/image.png)
+
+(also im on vacation, so I have a lot less time to work on this :/ probably won't finish by november, but i guess that's alright.)  
+
