@@ -153,3 +153,21 @@ Here you can see how I think the motors will be placed, but that may change. Ano
 
 (also im on vacation, so I have a lot less time to work on this :/ probably won't finish by november, but i guess that's alright.)  
 
+## 10/28/2025 - CAD - Z axis and electronics housing  
+
+btw im home from vacation :D
+
+today i did a bunch of work on the Z-axis, trying to get the belt system working right. I've positioned the motor and pulleys in a spot that I really like, as the big 80T gear is kinda poking out and will be visible outside of the casing (which is cool imo), and the belt path is clear and fairly hidden.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjM4MiwicHVyIjoiYmxvYl9pZCJ9fQ==--bf6f368edc30e539ce5e7f5b8c17159fed9226d0/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjM4MywicHVyIjoiYmxvYl9pZCJ9fQ==--45af3330b95b40401354a9f051464d0f655bf484/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjM4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--b48c77e66153b34a4dfc47d07a06a8e0c7f2be04/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjM4NSwicHVyIjoiYmxvYl9pZCJ9fQ==--931722c642d7748ba93ea881fc43b7b4e861895f/image.png)
+
+
+
+  
+
