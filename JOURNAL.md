@@ -171,3 +171,24 @@ today i did a bunch of work on the Z-axis, trying to get the belt system working
 
   
 
+## 10/29/2025 - Continued Z axis and electronics housing  
+
+I'm pretty proud of my progress on the Z axis today! I've gotten the belt system nicely concealed but still kinda steampunk-ish-ly poking out? Not sure how to describe it so here's a few pictures:
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjU1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--d0eedcbec62a48ce98add8179686b5a838780cb3/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjU1NCwicHVyIjoiYmxvYl9pZCJ9fQ==--ac88a3689c71f9a06ef761596b60081f6a4f275b/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjU1NSwicHVyIjoiYmxvYl9pZCJ9fQ==--d06344a3396aac2ed611b1f1c2dba30cb4f5284d/image.png)
+
+Still pretty unsure about assembling the z axis, particularly the rod and bearings to hold the gear ratio thingy. I'll figure it out. Here's the electronics:
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjU1NiwicHVyIjoiYmxvYl9pZCJ9fQ==--acf09af8f385b4764f5cb0f1a9c9b23caac11069/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjU1NywicHVyIjoiYmxvYl9pZCJ9fQ==--45debbc7c4b31e564ddc95ce6e83885e9ad8b42c/image.png)
+
+It's compact and I think assembling it will be pretty straightforward. Cya tmrw
+
+
+  
+
