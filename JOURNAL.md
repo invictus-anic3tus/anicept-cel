@@ -192,3 +192,28 @@ It's compact and I think assembling it will be pretty straightforward. Cya tmrw
 
   
 
+## 10/30/2025 - Electronics and Z axis CAD + research  
+
+today i was forced with a decision
+
+not an easy decision
+
+a hard decision (duh)
+
+it was
+
+quality or price?
+
+turns out I didn't have to choose!!! For some reason a lot of my parts got cheaper so i have more budget. In short, I made the Z axis way chonkier by using 4040 extrusions instead of 2040 on the z axis, and I'm using MGN12H instead of MGN9H rails. I've positioned them inside the gantry now, cuz apparently it's better? Idk. I'm getting all this info from @evan le himself. Here's some pictures
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjgxNywicHVyIjoiYmxvYl9pZCJ9fQ==--c5ec97228e2752266f656529dc509c102fc96594/image.png)
+
+oh yeah also i added a lil fan
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjgxOCwicHVyIjoiYmxvYl9pZCJ9fQ==--28943a0e487f7b60bc28fe347ed2d7b91bfefd7b/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjgxOSwicHVyIjoiYmxvYl9pZCJ9fQ==--16a3844f23ed241a6784e0958fdb1127ab4a630e/image.png)
+
+
+  
+
