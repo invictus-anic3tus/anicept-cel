@@ -217,3 +217,20 @@ oh yeah also i added a lil fan
 
   
 
+## 11/4/2025 - CAD - X, Y, and Z axes  
+
+I'm quite proud of today's work! I've started connecting the Z axis belt to the gantry, and I've all but finished the gantry-to-frame connecty bits. Here's some pictures:
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODQyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--dfd8ced94fe130079e64ca6a898f1b97df2dcc61/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODQyNywicHVyIjoiYmxvYl9pZCJ9fQ==--56b1ddb1e557f878c2fd3000c95478f99135f90d/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODQyOCwicHVyIjoiYmxvYl9pZCJ9fQ==--b81bb6a90f2ba5e6db51513b3fe879c3349343dc/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODQyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--3f0029cc846d140c3653300b4d2011116e262e0d/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODQzMCwicHVyIjoiYmxvYl9pZCJ9fQ==--81e2b621b4941c1682e84e86dab62ed64ce95fa8/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODQzMSwicHVyIjoiYmxvYl9pZCJ9fQ==--0912b4a57e9323fa7dcb0fe0872c6ce2889dbd10/image.png)
+  
+
