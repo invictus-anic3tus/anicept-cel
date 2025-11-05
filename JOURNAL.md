@@ -234,3 +234,17 @@ I'm quite proud of today's work! I've started connecting the Z axis belt to the 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODQzMSwicHVyIjoiYmxvYl9pZCJ9fQ==--0912b4a57e9323fa7dcb0fe0872c6ce2889dbd10/image.png)
   
 
+## 11/5/2025 - More Z axis CAD  
+
+Today I finished attaching the belt to the Z axis, and just about finished making the z tensioner! I'm pretty glad that the z axis is almost done, because it's been pretty difficult and I thought i'd have to redesign like everything when I didn't think I could fit the belt attachy parts :sob:
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODc1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--3f95467275677acbd1b1c2f6b097465eff045906/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODc1MSwicHVyIjoiYmxvYl9pZCJ9fQ==--8a4c17250f456908a17b8050dce2536efbf39402/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODc1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--5b109ed2658692724f687a59c8dd04a0647b798b/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODc1MywicHVyIjoiYmxvYl9pZCJ9fQ==--5ef829c405402c926bd0d00d3ecb77135c24482e/image.png)
+
+  
+
