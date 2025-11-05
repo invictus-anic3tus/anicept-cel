@@ -238,6 +238,9 @@ I'm quite proud of today's work! I've started connecting the Z axis belt to the 
 
 Today I finished attaching the belt to the Z axis, and just about finished making the z tensioner! I'm pretty glad that the z axis is almost done, because it's been pretty difficult and I thought i'd have to redesign like everything when I didn't think I could fit the belt attachy parts :sob:
 
+![Anicept Cel](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODc1NCwicHVyIjoiYmxvYl9pZCJ9fQ==--0a931e21686417fef9bd75b7e21e97c06e25f007/Anicept%20Cel.png)
+
+
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODc1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--3f95467275677acbd1b1c2f6b097465eff045906/image.png)
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODc1MSwicHVyIjoiYmxvYl9pZCJ9fQ==--8a4c17250f456908a17b8050dce2536efbf39402/image.png)
