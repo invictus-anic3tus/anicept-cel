@@ -253,6 +253,8 @@ Today I finished attaching the belt to the Z axis, and just about finished makin
 
 ## 11/7/2025 - CAD - more kinematics, re-research  
 
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTI2OCwicHVyIjoiYmxvYl9pZCJ9fQ==--43875a1f2a14585097b58d4e0dbb646048dbc229/image.png)
+
 First, I finished (probably?) the z-axis:
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTI2MiwicHVyIjoiYmxvYl9pZCJ9fQ==--c1c86a1d96d51e835b29b8d2938ee8630509164d/image.png)
