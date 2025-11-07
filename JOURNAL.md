@@ -251,3 +251,25 @@ Today I finished attaching the belt to the Z axis, and just about finished makin
 
   
 
+## 11/7/2025 - CAD - more kinematics, re-research  
+
+First, I finished (probably?) the z-axis:
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTI2MiwicHVyIjoiYmxvYl9pZCJ9fQ==--c1c86a1d96d51e835b29b8d2938ee8630509164d/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTI2MywicHVyIjoiYmxvYl9pZCJ9fQ==--c3086aef897bdf455022b125bf2ef2078774e4b9/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTI2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--0d8fddc0a33a89189dc1447c3e0efd230ecd044e/image.png)
+
+In hindsight, I forgot screw holes to connect the tensioner to the extrusion. no problem, will do soon
+Then I did some research, cuz my buddy evan told me that the company I was wanting to get a motor sponsorship from (LDO motors) would probably not grant it. So I'm going to use StepperOnline 17hs19-2004s1's instead! I actually own four of these from a previous 3d printer, so I'm going to use those and replace them with cheaper ones in the first printer. I'm gonna do AWD on the Y-axis and upgrade from a 48V psu to 60V, possibly (according to evan) letting me go as high as 2000mm/s at 250k, which is incredible!
+
+Here's the updated Y axis and PSU: (yes i repositioned the inlet _again_)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTI2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--64802f3543032559ce4c355c8a2c19184f41ccac/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTI2NiwicHVyIjoiYmxvYl9pZCJ9fQ==--27bb2c9ce9c0135780159f232018aa14efad58aa/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTI2NywicHVyIjoiYmxvYl9pZCJ9fQ==--c7ab569f7c8b75a78116348f3635343743e15390/image.png)
+
+I obviously still have a lot of work, but i'm seeing progress and I like it.  
+
