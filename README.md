@@ -138,3 +138,6 @@ Very WIP!! Also this is my personal BOM, like what I own and don't own. Aliexpre
 # Contributing
 
 If you'd like to request something, give feedback, or wish to make your own changes, simply open an issue on this repository or email me! (My email is in my profile.)
+
+<img width="1506" height="847" alt="image" src="https://github.com/user-attachments/assets/878a4eb6-72db-4ee9-b3fb-e4f78bdf98f6" />
+
