@@ -1,0 +1,1 @@
+If possible, all parts on the main printer should be printed in ABS, ASA, or PETG. If you have to, the Z axis components can be printed in PLA, and so can the printhead. The electronics box can be printed in whatever you please.
